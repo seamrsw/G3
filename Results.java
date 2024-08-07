@@ -20,7 +20,8 @@ public class Student {
     {
         return (RE+SDA+SQAT+SEAM+FM)/4;
     }
-
+    
+    String test();
   
     int getTotal()
     {
